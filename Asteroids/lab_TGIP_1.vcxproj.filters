@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="shaders\shader.cpp" />
+    <ClCompile Include="dependente\imgui\imgui.cpp">
+      <Filter>imgui_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="dependente\imgui\imgui_demo.cpp">
+      <Filter>imgui_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="dependente\imgui\imgui_draw.cpp">
+      <Filter>imgui_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="dependente\imgui\imgui_impl_glfw.cpp">
+      <Filter>imgui_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="dependente\imgui\imgui_impl_opengl3.cpp">
+      <Filter>imgui_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="dependente\imgui\imgui_widgets.cpp">
+      <Filter>imgui_cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="objects\asteroid.h">
+      <Filter>objects</Filter>
+    </ClInclude>
+    <ClInclude Include="objects\blaster.h">
+      <Filter>objects</Filter>
+    </ClInclude>
+    <ClInclude Include="dependente\imgui\imconfig.h">
+      <Filter>imgui_h</Filter>
+    </ClInclude>
+    <ClInclude Include="dependente\imgui\imgui.h">
+      <Filter>imgui_h</Filter>
+    </ClInclude>
+    <ClInclude Include="dependente\imgui\imgui_impl_glfw.h">
+      <Filter>imgui_h</Filter>
+    </ClInclude>
+    <ClInclude Include="dependente\imgui\imgui_impl_opengl3.h">
+      <Filter>imgui_h</Filter>
+    </ClInclude>
+    <ClInclude Include="dependente\imgui\imgui_internal.h">
+      <Filter>imgui_h</Filter>
+    </ClInclude>
+    <ClInclude Include="dependente\imgui\imstb_rectpack.h">
+      <Filter>imgui_h</Filter>
+    </ClInclude>
+    <ClInclude Include="dependente\imgui\imstb_textedit.h">
+      <Filter>imgui_h</Filter>
+    </ClInclude>
+    <ClInclude Include="dependente\imgui\imstb_truetype.h">
+      <Filter>imgui_h</Filter>
+    </ClInclude>
+    <ClInclude Include="objects\ship.h">
+      <Filter>objects</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="imgui_h">
+      <UniqueIdentifier>{ee5910db-c05c-432b-956c-4afae713c5aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imgui_cpp">
+      <UniqueIdentifier>{09688909-0fc7-47fa-9888-e6f1559014cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{62afd53c-2ed4-4c5b-a46c-330863a8f23e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="objects">
+      <UniqueIdentifier>{912aabc0-078b-423b-bbd2-675bb5a651dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="textFiles">
+      <UniqueIdentifier>{90074725-9907-4bd9-9eb4-e9cff0d211d3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shaders\fragment\asteroids.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="shaders\fragment\blaster.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="shaders\fragment\ship.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="shaders\vertex\asteroids.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="shaders\vertex\blaster.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="shaders\vertex\ship.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="textFiles\Exit_menu.txt">
+      <Filter>textFiles</Filter>
+    </Text>
+    <Text Include="textFiles\HUD.txt">
+      <Filter>textFiles</Filter>
+    </Text>
+    <Text Include="textFiles\Instructions.txt">
+      <Filter>textFiles</Filter>
+    </Text>
+    <Text Include="textFiles\Main_menu.txt">
+      <Filter>textFiles</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
