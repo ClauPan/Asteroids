@@ -1,0 +1,9 @@
+ASTEROIDS
+
+
+
+Press 'ENTER' or 'BUTTON RIGHT' to
+START
+
+Press 'I' for
+INSTRUCTIONS

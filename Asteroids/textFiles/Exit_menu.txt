@@ -1,0 +1,11 @@
+GAME OVER
+
+
+
+SCORE
+
+BLASTER HITS
+
+ASTEROIDS DESTROYED
+
+To play again press 'ENTER' or 'BUTTON RIGHT'
