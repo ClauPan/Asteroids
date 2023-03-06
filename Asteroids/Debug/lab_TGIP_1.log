@@ -1,0 +1,49 @@
+﻿          1 file(s) copied.
+          1 file(s) copied.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\objects\blaster.h(22,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\objects\blaster.h(23,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(29,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(50,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(164,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(165,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(166,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(167,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(187,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(188,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(189,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(190,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(205,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(219,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(242,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(251,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(530,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(530,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(531,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(531,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(534,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(542,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(542,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(543,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(543,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(546,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(558,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(563,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(567,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(568,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(571,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(587,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(587,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(588,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(588,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\main.cpp(591,22): warning C4018: '<': signed/unsigned mismatch
+  shader.cpp
+  Generating Code...
+  lab_TGIP_1.vcxproj -> C:\Users\claw\Desktop\UNI\SEM I\ACG\Asteroids\Asteroids\Debug\Asteroids.exe
