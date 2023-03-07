@@ -2,7 +2,7 @@
 # ASTEROIDS
 
 Highscore based game divided into 3 levels of difficulty with the player having 3 lives. 
-One life in minus means the ship was hit by an asteroid.To pass to the next level you need 
+One life in minus means the ship was hit by an asteroid. To pass to the next level you need 
 to hit 10 + level -1 asteroids. Each level has different size asteroids with different speed 
 different number of hits necessary to kill. The higher the level the more hits to blow up the 
 asteroids. Once level 3 is finished, the game will continue with level 3 difficulty, but the 
