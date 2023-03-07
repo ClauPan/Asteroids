@@ -1,7 +1,5 @@
 
-ASTEROIDS
-
-# Description
+# ASTEROIDS
 
 Highscore based game divided into 3 levels of difficulty with the player having 3 lives. 
 One life in minus means the ship was hit by an asteroid.To pass to the next level you need 
@@ -15,11 +13,11 @@ asteroids will increase their speed untill the player makes a mistake and dies.
 OpenGl with GLFW 3.2.1 
 ImGUI
 
-# HOW TO RUN
+# How to run
 
 From VisualStudio 2022 run with debugging on Win32.
 
-# COMMANDS
+# Commands
 
 W / UP			-	move forward
 S / DOWN			-	move back
