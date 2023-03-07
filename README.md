@@ -20,10 +20,17 @@ From VisualStudio 2022 run with debugging on Win32.
 # Commands
 
 W / UP			-	move forward
+
 S / DOWN			-	move back
+
 A / LEFT			-	rotate left
+
 D / RIGHT			-	rotate right
+
 SPACE/ BUTTON LEFT	-	shoot canon
+
 LSHIFT + shoot		-	rapid fire shot
+
 H				-	hide/unhide mouse cursor
+
 I				-	exit comand menu
