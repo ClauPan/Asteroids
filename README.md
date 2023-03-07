@@ -19,7 +19,7 @@ From VisualStudio 2022 run with debugging on Win32.
 
 # Commands
 
-W / UP			-	move forward
+W / UP			  -	move forward
 
 S / DOWN			-	move back
 
