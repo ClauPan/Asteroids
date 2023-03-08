@@ -12,16 +12,16 @@ asteroids will increase their speed untill the player makes a mistake and dies.
 
 <img src="Pictures/game.png">
 
-# Dependencies used
+## Dependencies used
 
 OpenGl with GLFW 3.2.1 
 ImGUI
 
-# How to run
+## How to run
 
 From VisualStudio 2022 run with debugging on Win32.
 
-# Commands
+## Commands
 
 W / UP			  -	move forward
 
