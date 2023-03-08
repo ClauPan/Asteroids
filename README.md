@@ -8,6 +8,10 @@ different number of hits necessary to kill. The higher the level the more hits t
 asteroids. Once level 3 is finished, the game will continue with level 3 difficulty, but the 
 asteroids will increase their speed untill the player makes a mistake and dies.
 
+<img src="Pictures/menu.png">
+
+<
+
 # Dependencies used
 
 OpenGl with GLFW 3.2.1 
