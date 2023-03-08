@@ -10,7 +10,7 @@ asteroids will increase their speed untill the player makes a mistake and dies.
 
 <img src="Pictures/menu.png">
 
-<
+<img src="Pictures/game.png">
 
 # Dependencies used
 
