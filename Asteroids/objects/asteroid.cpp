@@ -1,4 +1,4 @@
-#include "objects/asteroid.h"
+#include "asteroid.h"
 
 Asteroid::Asteroid() {
 	glm::mat4 asteroid(1.0f);
