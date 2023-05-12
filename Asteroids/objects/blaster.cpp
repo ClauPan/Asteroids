@@ -1,4 +1,4 @@
-#include "objects/blaster.h"
+#include "blaster.h"
 
 Blaster::Blaster() {
 	glm::mat4 blaster(1.0f);
