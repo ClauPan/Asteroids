@@ -1,5 +1,5 @@
-#include "dependente/glm/glm.hpp"
-#include "dependente/glm/gtc/matrix_transform.hpp"
+#include "../dependente/glm/glm.hpp"
+#include "../dependente/glm/gtc/matrix_transform.hpp"
 
 class Asteroid {
 private:
